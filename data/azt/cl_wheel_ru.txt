@@ -1,0 +1,25 @@
+@set lang = ru
+@alias ru = uk
+tttwheel.seg.chatter=Случайная болтовня
+tttwheel.seg.chatter.desc=Разрядка обстановки.
+
+tttwheel.seg.empty=Ничего
+tttwheel.dropwp=Выбросить оружие
+
+tttwheel.seg.help=Помогите!
+tttwheel.seg.help.desc=...если тебе кто-то поможет.
+
+tttwheel.seg.greet=Приветствие
+tttwheel.seg.greet.desc=Частенько тут бываете?
+
+tttwheel.seg.run=Беги!
+tttwheel.seg.run.desc=Спасай свою задницу!
+
+tttwheel.seg.excuse=Извините
+tttwheel.seg.excuse.desc=Принеси свои дешевые извинения.
+
+tttwheel.seg.agree=Согласие
+tttwheel.seg.agree.desc=Да!
+
+tttwheel.seg.disagree=Несогласие
+tttwheel.seg.disagree.desc=Абсолютно нет.

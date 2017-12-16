@@ -1,0 +1,23 @@
+tttwheel.seg.chatter=Random Chatter
+tttwheel.seg.chatter.desc=Clear the air.
+
+tttwheel.seg.empty=Nothing
+tttwheel.dropwp=Drop Weapon
+
+tttwheel.seg.help=Help!
+tttwheel.seg.help.desc=Cry for help like a baby.
+
+tttwheel.seg.greet=Greetings
+tttwheel.seg.greet.desc=Come here often?
+
+tttwheel.seg.run=Run!
+tttwheel.seg.run.desc=Run for your life!
+
+tttwheel.seg.excuse=Excuse me
+tttwheel.seg.excuse.desc=Show your cheap excuses.
+
+tttwheel.seg.agree=Agree
+tttwheel.seg.agree.desc=Okay!
+
+tttwheel.seg.disagree=Disagree
+tttwheel.seg.disagree.desc=No shit.
