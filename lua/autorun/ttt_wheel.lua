@@ -12,5 +12,3 @@ hook.Add("Initialize", "TTT Wheel i12n", function()
         include("tttwheel/cl_init.lua");
     end
 end);
-
-initialization
